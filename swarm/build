@@ -1,1 +1,1 @@
-CGO_ENABLED=0 $(GOPATH)/bin/godep go install -v -a -tags netgo -installsuffix netgo -ldflags '-extldflags "-static" -s' .
+See http://blog.hypriot.com/post/let-docker-swarm-all-over-your-raspberry-pi-cluster/
